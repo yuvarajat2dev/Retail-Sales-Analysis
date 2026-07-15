@@ -48,12 +48,6 @@ each row reflects a real slice of spend within one specific category
 
 ![Age group, gender and category output](./images/query5_output.png)
 
-### 6. Units sold vs revenue by product category
-Compared total units sold against total revenue per category to see whether
-a category's revenue comes from high sales volume or higher-priced items.
-
-![Units sold vs revenue output](./images/query6_output.png)
-
 All queries are in [`retail_sales_analysis.sql`](./retail_sales_analysis.sql).
 
 ## Key insights
